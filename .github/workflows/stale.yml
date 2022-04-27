@@ -19,5 +19,3 @@ jobs:
           src: 'https://r8.googlesource.com/r8'
           dst: 'sunjc53yy/R8'
           static_list: "learn-typescript"
-          force_update: true
-			    debug: true
